@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "cb3fd89c66d9531b",
+    "type": "split",
+    "children": [
+      {
+        "id": "df1681a75209b223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac7a96956153d598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "История для письменной работки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "История для письменной работки"
+            }
+          },
+          {
+            "id": "87b6493c64f25d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "БИОЛОГИЯ ЕМАЕ ЧТО ЭТО ТАКОЕ МАМА СПАСИ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "БИОЛОГИЯ ЕМАЕ ЧТО ЭТО ТАКОЕ МАМА СПАСИ"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ce52d5be2515ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "53b4751f42a24efe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e553ed4038700e0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6d6c918980bf7a52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7eb142738c77f90f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b7404293584b650",
+    "type": "split",
+    "children": [
+      {
+        "id": "53cd3550389401be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9df4d5b566ac3018",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Обществознание, подготовка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Обществознание, подготовка"
+            }
+          },
+          {
+            "id": "80c0db0b8438f8f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Обществознание, подготовка.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Обществознание, подготовка"
+            }
+          },
+          {
+            "id": "408b1fa9e1cc63d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e80f7c6990438e9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Обществознание, подготовка.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Обществознание, подготовка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "87b6493c64f25d1c",
+  "lastOpenFiles": [
+    "История для письменной работки.md",
+    "БИОЛОГИЯ ЕМАЕ ЧТО ЭТО ТАКОЕ МАМА СПАСИ.md",
+    "Обществознание, подготовка.md"
+  ]
+}
